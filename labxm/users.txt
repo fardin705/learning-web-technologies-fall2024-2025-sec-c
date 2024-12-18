@@ -1,5 +1,0 @@
-21-45036-2,890,Musa,User
-21-45191-2,234,Sayaf,User
-21-44705-1,000,Fardin,Admin
-123,234,xman,Admin
-888,999,yman,User
